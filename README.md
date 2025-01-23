@@ -1,2 +1,2 @@
 # multi-modal
-Code for blog
+This is the source code for the blog published on Analytics Vidya
